@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-21T09:16:00 ART" name="Default suite" finished-at="2022-04-21T09:16:03 ART" duration-ms="2968">
+  <suite started-at="2022-04-21T10:18:26 ART" name="Default suite" finished-at="2022-04-21T10:18:29 ART" duration-ms="3750">
     <groups>
     </groups>
-    <test started-at="2022-04-21T09:16:00 ART" name="Default test" finished-at="2022-04-21T09:16:03 ART" duration-ms="2968">
+    <test started-at="2022-04-21T10:18:26 ART" name="Default test" finished-at="2022-04-21T10:18:29 ART" duration-ms="3750">
       <class name="tests.restPruebas">
-        <test-method signature="loginTest()[pri:0, instance:tests.restPruebas@5276e6b0]" started-at="2022-04-21T09:16:00 ART" name="loginTest" finished-at="2022-04-21T09:16:03 ART" duration-ms="2910" status="PASS">
+        <test-method signature="listUsers()[pri:0, instance:tests.restPruebas@647fd8ce]" started-at="2022-04-21T10:18:26 ART" name="listUsers" finished-at="2022-04-21T10:18:29 ART" duration-ms="3698" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest -->
+        </test-method> <!-- listUsers -->
       </class> <!-- tests.restPruebas -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
