@@ -4,7 +4,8 @@ package tests;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
+
 
 public class GetandPostExamples {
 
